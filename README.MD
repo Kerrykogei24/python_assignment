@@ -1,4 +1,4 @@
-# Assignment 1 README
+## Assignment README
 
 This repository contains two Python scripts, `assignment1_part1.py` and `assignment1_part2.py`, which fulfill the requirements of Assignment 1. Below, you will find information about each part of the assignment and instructions on how to run the scripts.
 
